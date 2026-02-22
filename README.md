@@ -23,7 +23,7 @@ I’m interested in mobile development, machine learning, and AI infrastructure.
 - Passionate about Mobile UI/UX and Cross-Platform development using Flutter.
 - Enjoys exploring the "under the hood" of AI, specifically how to make models run on consumer hardware.
 - Experienced in building diverse utility apps, from Recipe Books to Quiz platforms.
-- Big fan of learning by doing—my 60+ repositories reflect my journey of constant experimentation.
+- Big fan of learning by doing my 60+ repositories reflect my journey of constant experimentation.
 
 ## 🌱 Currently Learning
 - Advanced LLM Fine-tuning & Optimization
