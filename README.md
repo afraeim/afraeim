@@ -1,4 +1,4 @@
-# Hi, I’m Abdul Kader 👋
+# Hi, I’m Afraeim 👋
 
 🎓 Computer Science Student
 📍 Atlanta, GA  
