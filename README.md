@@ -1,4 +1,4 @@
-# Hi, I’m Afraeim 👋
+# Hi, I’m Aaaf-rA-eeyim 👋
 
 🎓 Computer Science Student
 📍 Atlanta, GA  
